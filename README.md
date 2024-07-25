@@ -2,7 +2,7 @@
 
 ## 🚢 Deploy
 
-https://taskify-roan-five.vercel.app/?_vercel_share=ndjiOAde48mH4oNPBcm13hNZM0XWQinW
+https://taskify-6bvdep24r-siwoojinseoks-projects.vercel.app/
 
 ## ☀️ Project Topic
 

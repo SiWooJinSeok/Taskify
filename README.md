@@ -2,7 +2,7 @@
 
 ## 🚢 Deploy
 
-https://taskify-6bvdep24r-siwoojinseoks-projects.vercel.app/
+https://taskify-coral-eta.vercel.app/
 
 ## ☀️ Project Topic
 
